@@ -1,0 +1,6 @@
+{
+  "name": "VayuTrace - Active Pollution Intelligence Platform",
+  "description": "Evidence-driven climate intelligence: detects pollution anomalies, fuses multi-source evidence with Bayesian confidence, traces forward and backward plumes, orchestrates active sky-tasking, guides municipal action, and causally proves intervention efficacy.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
